@@ -1,0 +1,30 @@
+.App{
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between;
+  /* background-color: #faf9f6; */
+  background-color: #a8bfc7;
+}
+.Heading{
+  background-color: #a8bfc7;
+  padding-left: 600px;
+  padding-top: 50px;
+  color: white;
+  text-shadow: 2px 2px black;
+}
+
+@media screen and (max-width: 800px) {
+  .App{
+    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+  .Heading{
+    /* padding-left: -34vw !important ; */
+    background-color: #a8bfc7;
+    padding-left: 10px;
+    padding-top: 51px;
+    color: white;
+    font-size: 20px;
+    text-shadow: 2px 2px black;
+  }
+}
