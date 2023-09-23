@@ -25,7 +25,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[https://drive.google.com/file/d/1G7qeIdcfAx8Rgm-rDxwcYRBIqop7BAQr/view](https://drive.google.com/file/d/1G7qeIdcfAx8Rgm-rDxwcYRBIqop7BAQr/view?usp=sharing](https://github.com/DheerajKumar-M/Codepath-Project1/assets/61615825/2a4ca3b3-96f4-4bd8-b782-ea010893ea85](https://github.com/DheerajKumar-M/Codepath-Project1/assets/61615825/2a4ca3b3-96f4-4bd8-b782-ea010893ea85)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[Project-1.webm](https://github.com/DheerajKumar-M/Codepath-Project1/assets/61615825/8d92cf25-d3bc-4949-8f08-a4c1ef54b197)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/)
