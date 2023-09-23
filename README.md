@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[Project-1.webm](https://github.com/DheerajKumar-M/Codepath-Project1/assets/61615825/8d92cf25-d3bc-4949-8f08-a4c1ef54b197)
+<img src='Project-1.gif
 ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
