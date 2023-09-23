@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://drive.google.com/file/d/1G7qeIdcfAx8Rgm-rDxwcYRBIqop7BAQr/view' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/1G7qeIdcfAx8Rgm-rDxwcYRBIqop7BAQr/view](https://drive.google.com/file/d/1G7qeIdcfAx8Rgm-rDxwcYRBIqop7BAQr/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/)
